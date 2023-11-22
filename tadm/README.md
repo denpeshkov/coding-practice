@@ -1,0 +1,1 @@
+# Solutions to exercises in The Algorithm Design Manual 3rd ed.
