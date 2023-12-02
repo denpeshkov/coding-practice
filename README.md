@@ -1,3 +1,3 @@
-# algs-ds-exercises
+# Coding Practice
 
-Solution to various CS exercises, mostly from books
+Solutions to various coding exercises. Mostly from books, Advent of Code, or some other resources.
